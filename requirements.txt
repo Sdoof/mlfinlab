@@ -23,7 +23,7 @@ getmac>=0.8.0
 # Develop
 codecov==2.1.11
 coverage==5.4
-pylint==2.6.0
+pylint==4.0.9
 sphinx==3.4.3 # Docs
 hudsonthames-sphinx-theme==0.1.5 # Docs
 sphinx-rtd-theme==0.5.2 # Docs
